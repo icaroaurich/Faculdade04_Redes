@@ -1,0 +1,75 @@
+ozzy
+
+segmentação
+segmentação
+segmentação
+datagrama
+pacotes
+quadross
+bit
+
+
+ftp 20/21
+21 conexão de controle (login)
+20 coenxaõ de dados (arquivos)
+http 80
+
+
+Pesquisar Von neumann
+
+LGPD - Lei geral de proteção de dados
+
+Aula 28/08/23
+	Principais serviores
+		Arquivo
+			Controle de nível de usuário
+			Controle de diretórios
+			Confoguração via web
+			Quota de armazenamento em disco
+			Auditoria de arquivos acessados
+		Banco de dados
+			Armazenamento compartilhado de arquivos
+		Impressão
+			Destinasse a controlar as tarefas de impressão enviadass para uma impressora (de rede) por diferentes estações de trabalho que competem entre si pelo recurso
+		Comunicação
+			Responsável pela realização de todos so procedimentos de acesso á rede, bem como da interface com os dispositivos usuários, de forma a permitir o uso da rede por estes.
+		Gerenciamento
+			Servidor, tal como hardware, modelo, desempenho (processamento), autenticação, sitema operacional e etc.
+		Firewall, wen e e-mail
+			filtros de pacotes e proxy
+			Aceita pedidos HTTP (usa html)
+			Possibilita troca de e0mails via web
+	Ambiente Operacional
+		win
+		linux
+			Red hat, ubuntu, SUSE...
+	Exercícios em classe
+		Pesquisar tipos de servidores(hardware) em sites como dell, ibm...
+		Descreva as principais diferenças entre os SO servidores Windows, 2003, 2008, 2012, 2016 e 2019...
+		Pesquisar e comentar sobre um SO desconhecido por vocês
+		
+Aula 04/09/23
+	Coisas de disco rígido
+	SCSI
+	IDE
+	RAID - Técnica de espelhamento
+Aula 11/09/23
+	CD/DVD de instalação (drive)
+	Antivírus
+	Acesso a internet
+		discada
+		Direta
+	Atualização
+	Configuração TCP/IP
+		painel de controle
+		conexões de rede
+		Local area connection
+		Propriedades/geral/internet protocol
+		---
+		Número do ip (estatico/dinamico)
+		Duas placas de rede
+		Hospedar site, dois ips
+		Máscara de sub-rede
+		Qual IP gateway(Router)? DNS's (1a,2a)?
+		Estudar DNS
+	IP subnet calculador

@@ -1,0 +1,30 @@
+Windows "Normal"
+	Finalidade:
+		Ele é destinado a ser utilizado por indivíduos e empresas para atividades do dia a dia, como navegação na web, uso de aplicativos de produtividade, jogos e entretenimento
+	Recursos e serviços:
+		 Inclui uma ampla gama de aplicativos e recursos voltados para o usuário final, como a interface gráfica do Windows Explorer, a Cortana (assistente virtual), a Windows Store...
+	Licenciamento e Custos:
+		Geralmente baseado em usuário ou dispositivo e é projetado para atender às necessidades individuais ou de pequenas empresas.
+	Desempenho e Estabilidade:
+		Otimizado para uso em estações de trabalho e dispositivos de consumo, enfatizando a experiência do usuário e o desempenho em aplicativos do dia a dia.
+Windows Server
+	Finalidade:
+		projetada para uso em servidores e ambientes empresariais. Ele fornece recursos avançados para gerenciamento de redes, armazenamento, virtualização, segurança e serviços para suportar as necessidades de empresas e organizações.
+	Recursos e serviços:
+		É otimizado para fornecer serviços de rede, como servidores de arquivos, serviços de diretório (Active Directory), serviços de DNS (Domain Name System), serviços de impressão, serviços de gerenciamento remoto, virtualização com Hyper-V e muito mais.
+	Licenciamento e Custos:
+		Pode ser mais complexo e é baseado em cores de processador, núcleos ou licenças de acesso de cliente (CALs), dependendo da versão e da edição do servidor. O Windows Server tende a ser mais caro devido aos recursos corporativos avançados que oferece.		
+	Desempenho e Estabilidade:
+		Otimizado para oferecer alta estabilidade e confiabilidade em ambientes de servidor. Ele é projetado para operar 24/7, suportar cargas de trabalho intensivas e gerenciar múltiplos usuários e serviços simultaneamente.
+		
+Escolha de comparação
+	Windows server 2012 x Windows server 2019 
+	Interface
+		Tela inicial semelhante, sendo baseada no Win 8
+	Segurança
+		Em relação a segurança o Win2019 introduziu o Windows Defender Advanced Threat Protection, que ajuda a detectar e responder a ameaças de segurança avançadas
+	Virtualização
+		Ambas as versões suportam a virtualização por meio do Hyper-V, mas o Windows Server 2019 trouxe melhorias significativas no desempenho e na eficiência da virtualização.
+	Tempo de vida
+		O Windows Server 2012 tem um ciclo de vida de suporte limitado. A versão principal foi suportada até janeiro de 2018, e a versão R2 foi estendida até outubro de 2023.
+		O Windows Server 2019 tem um ciclo de vida de suporte mais longo. O suporte para a versão principal está programado para continuar até janeiro de 2024, com a possibilidade de extensões de suporte

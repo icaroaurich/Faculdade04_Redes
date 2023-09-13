@@ -1,0 +1,25 @@
+Windows Server 2003:
+
+
+Recursos e Tecnologia: O Windows Server 2003 trouxe melhorias na estabilidade, segurança e desempenho em comparação com suas versões anteriores. Ele introduziu recursos como Serviços de Terminal (agora chamados de Área de Trabalho Remota), Sistema de Arquivos NTFS versão 5, suporte a IPv6, Active Directory melhorado, entre outros
+
+	Objetivos:
+Introdução ao Active Directory: O Windows Server 2003 trouxe melhorias significativas no Active Directory, permitindo um gerenciamento mais eficiente de recursos, usuários e políticas.
+Estabilidade: Focou na melhoria da estabilidade do sistema operacional em relação às versões anteriores.
+Virtualização limitada: Ofereceu algum suporte a virtualização, mas não nas mesmas proporções e flexibilidade vistas nas versões posteriores.
+Melhoria na segurança: Introduziu recursos de segurança como a Política de Segurança Reforçada da Internet, que ajudava a proteger o servidor de ameaças da web.
+
+
+
+Windows Server 2019:
+
+
+Recursos e Tecnologia: O Windows Server 2019 trouxe várias melhorias em relação às versões anteriores. Alguns dos destaques incluem melhorias na segurança com o Windows Defender Advanced Threat Protection, mais opções de virtualização com o Hyper-V, suporte a contêineres do Docker, melhorias no armazenamento com o Storage Spaces Direct, aprimoramentos no gerenciamento de cluster, e uma integração mais profunda com serviços em nuvem da Microsoft.
+
+	Objetivos:
+Virtualização aprimorada: O Windows Server 2019 se concentra em oferecer recursos de virtualização avançados por meio do Hyper-V, permitindo a criação e gerenciamento eficiente de máquinas virtuais.
+Integração em nuvem: Projetado para se integrar perfeitamente com os serviços em nuvem da Microsoft, como o Azure, permitindo cenários híbridos de nuvem.
+Segurança avançada: Inclui o Windows Defender Advanced Threat Protection (ATP) para proteção avançada contra ameaças e ataques.
+Contêineres: Suporte para contêineres do Docker e do Kubernetes, que facilitam a implantação de aplicativos e o isolamento de recursos.
+Armazenamento melhorado: Oferece recursos como Storage Spaces Direct para criar clusters de armazenamento altamente disponíveis e escaláveis.
+Melhor gerenciamento de cluster: O Windows Server 2019 simplifica o gerenciamento de clusters e oferece alta disponibilidade para aplicações críticas

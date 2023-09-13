@@ -1,0 +1,30 @@
+O IBM® Power® E1080 
+é o servidor mais poderoso e escalável do portfólio IBM Power. O E1080 aceita até 240 núcleos de processador Power10 e até 64 TB de memória, e foi projetado para executar AIX®, IBM i e Linux®.
+
+
+Forneça proteção em camadas
+Conduza com maior eficiência
+Facilite a implementação de IA
+Melhore a disponibilidade
+
+
+O benchmark de nível SAP SD com 8 soquetes, recorde mundial, supera os melhores resultados de 86 soquetes do ambiente x¹
+O revolucionário processador Power10 de 7 nm oferece menor consumo de energia.
+Nova camada de defesa com criptografia de memória transparente mantém todos os dados na memória criptografados entre a memória e o processador
+A força computacional e a largura de banda de dados gerenciam a exigente inferência de IA e o aprendizado de máquina
+
+
+
+------------------
+
+O IBM® Power® S1022 é um servidor em rack 2U do  portfólio IBM Power  . O S1022 suporta até 40 núcleos de processador Power10 e até 4 TB de memória e foi projetado para executar  AIX® ,  IBM  ie  Linux
+Obtenha desempenho de preço superior para suas cargas de trabalho essenciais aos negócios. O IBM Power S1024 pode ajudá-lo a criar agilidade com uma infraestrutura de nuvem híbrida flexível e segura.
+
+
+
+Mais núcleos por sistema
+Consumo flexível
+Espelhamento de memória ativa
+2,4X mais largura de banda
+Aceleração matemática matricial
+Criptografia da memória principal
